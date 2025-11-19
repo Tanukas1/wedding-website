@@ -22,7 +22,7 @@
 
         /* MAIN HERO SECTION SAME AS YOUR IMAGE */
          .welcome-section {
-            background-image: url("{{ asset('/assets/main-image/fond-accueil.png') }}");
+            background-image: url("{{ asset('/assets/images/main-image/fond-accueil.png') }}");
             background-position: center center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -94,6 +94,8 @@
                 padding-bottom: 80px;
             }
         }
+
+
     </style>
 </head>
 
