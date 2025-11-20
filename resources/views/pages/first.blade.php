@@ -63,7 +63,7 @@
         .btn-programme {
             background-color: #575f2d;
             color: #fff;
-            padding: 10px 40px;
+            padding: 10px 30px;
             border-radius: 5px;
             font-size: 18px;
             margin-top: 45px;
@@ -71,12 +71,13 @@
 
         .btn-programme:hover {
             background-color: #474e25;
+            color:#fff;
         }
 
         /* ----------- MOBILE FIX ----------- */
         @media (max-width: 768px) {
             .welcome-section {
-                background-size: cover;      /* mobile version in your screenshot */
+                background-size: cover;     
                 padding-bottom: 100px;
             }
 
